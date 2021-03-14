@@ -2,7 +2,6 @@
 ![Demontisa's github stats](https://github-readme-stats.vercel.app/api?username=Demontisa&ount_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demontisa&layout=compact)
 
-> “这不是开发的技术，这是开发的艺术！” ——《飞驰人生》（有更改）
 
 ## More ##
 QQ邮箱（Main contact email）：[1994769112@qq.com](mailto:1994769112@qq.com)  
