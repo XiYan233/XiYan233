@@ -1,11 +1,12 @@
 ## About Me ##
-![Demontisa's github stats](https://github-readme-stats.vercel.app/api?username=XiYan233&ount_private=true&show_icons=true)
+![XiYan's github stats](https://github-readme-stats.vercel.app/api?username=XiYan233&ount_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiYan233&layout=compact)
 
 
 ## More ##
-QQ邮箱（QQ email）：[1994769112@qq.com](mailto:1994769112@qq.com)  
+邮箱（Email）：[i@xiyan.it](mailto:i@xiyan.it)  
 Gmail邮箱（Gmail）：[qq1994769112@gmail.com](mailto:qq1994769112@gmail.com)  
+
 > 警告：请*不要* **向我的任何邮箱发送垃圾邮件**（*包括但不限于* **广告、非我本人订阅的邮件**），我将会对相关邮件的发送者或来源地址进行封禁！  
 
 ----------
